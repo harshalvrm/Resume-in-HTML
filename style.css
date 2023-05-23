@@ -1,0 +1,436 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.a4-1 {
+    background-color: var(--white);
+    overflow: hidden;
+    padding: 0 0 119px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .relative-wrapper-one {
+    margin-bottom: 22px;
+    position: relative;
+  }
+  .profile-pic-6-1 {
+    width: 172px;
+    height: 172px;
+    position: absolute;
+    left: 51px;
+    bottom: -86px;
+    box-shadow: 0 4px 4px 0 var(--transparent-black);
+    border-radius: 92px;
+  }
+  .flex-wrapper-one {
+    background: linear-gradient(
+      70deg,
+      var(--goldenrod) -6%,
+      var(--orange-red) -6%,
+      var(--goldenrod) 120%,
+      var(--transparent-coral) 120%
+    );
+    padding: 30px 27px 30px 271px;
+    box-shadow: 0 4px 4px 0 var(--transparent-black);
+    position: relative;
+  }
+  .group-1 {
+    padding: 0 14px 9px 0;
+    position: relative;
+  }
+  .harshal-verma {
+    max-width: 283px;
+    font-family: "Poppins";
+    font-size: 36px;
+    font-weight: 800;
+    line-height: normal;
+    color: var(--white);
+    position: relative;
+  }
+  .front-end-developer-ui-designer-tech-c {
+    height: 13px;
+    width: 297px;
+    font-family: "Poppins";
+    font-size: 11px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+    display: flex;
+    position: absolute;
+    left: 0;
+    top: 50px;
+  }
+  .relative-wrapper-three {
+    margin-bottom: 7.98px;
+    margin-left: 241px;
+    position: relative;
+  }
+  .group-4 {
+    background-color: var(--black);
+    border-radius: 6px;
+    position: relative;
+  }
+  .about-me {
+    height: 20.02px;
+    width: 65.57px;
+    font-family: "Poppins";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: normal;
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  .group-5 {
+    background-color: var(--black);
+    border-radius: 6px;
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .flex-wrapper-two {
+    padding: 0 0 59px 27px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .flex-wrapper-three {
+    margin-right: 69px;
+    padding: 59px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .my-contact {
+    margin-bottom: 13px;
+    margin-left: 9px;
+    padding: 0 2.99px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .group-2 {
+    width: 65.57px;
+    height: 20.02px;
+    margin-bottom: 7.8px;
+  }
+  .flex-wrapper-six {
+    padding: 0 0 0 2.99px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .flex-wrapper-seven {
+    margin-top: 10px;
+    margin-right: 2.88px;
+    padding: 1.5px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .email-1-1 {
+    width: 11.35px;
+    height: 11.4px;
+    margin-bottom: 3.42px;
+  }
+  .github-1-1 {
+    width: 11.35px;
+    height: 11.4px;
+    margin-bottom: 3.54px;
+  }
+  .vector {
+    height: 16.45%;
+    align-self: stretch;
+    object-fit: cover;
+  }
+  .harshalvrm3-com-91-88199-13550-li {
+    height: 75.18px;
+    width: 107.78px;
+    display: flex;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 15px;
+    color: var(--black);
+  }
+  .technical-skills {
+    margin-bottom: 7px;
+    margin-left: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .group-3 {
+    width: 71.2px;
+    height: 21.64px;
+    margin-bottom: 4.36px;
+  }
+  .html5-css3-bootstrap-tailwind-css-java-sc {
+    max-width: 58.38px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+    text-align: justify;
+  }
+  .technical-skills-two {
+    margin-bottom: 15px;
+    padding: 21px 0 0 11px;
+    position: relative;
+  }
+  .group-3-two {
+    width: 70.48px;
+    height: 21.42px;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .teamwork-creativity-critical-thinking-ad {
+    width: 81px;
+    height: 66px;
+    position: relative;
+  }
+  .technical-skills-three {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .group-3-three {
+    width: 69.4px;
+    height: 21.09px;
+    margin-bottom: 4.91px;
+  }
+  .b-e-computer-science-rrit-bangalore-a {
+    width: 136px;
+    text-align: justify;
+    margin-left: 8px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--black);
+  }
+  .b-e-computer-science-rrit-bangalore-a:not(:last-of-type) {
+    margin-bottom: 5px;
+  }
+  .b-e-computer-science-rrit-bangalore-a-emphasis-1 {
+    font-family: "Poppins";
+    font-size: 6px;
+    font-weight: 300;
+    line-height: normal;
+    color: var(--dim-gray-2);
+  }
+  .b-e-computer-science-rrit-bangalore-a-emphasis-2 {
+    font-family: "Poppins";
+    font-size: 7px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .flex-wrapper-four {
+    margin-right: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .a-passionate-front-end-developer-with-a {
+    height: 66px;
+    width: 237px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+    display: flex;
+    margin-bottom: 22px;
+  }
+  .group-7 {
+    margin-bottom: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .group-6 {
+    background-color: var(--black);
+    margin-bottom: 8.98px;
+    margin-left: 1px;
+    border-radius: 6px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .i-neuron-bangalore-link-built-14-websi {
+    height: 69px;
+    width: 237px;
+    display: flex;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .i-neuron-bangalore-link-built-14-websi-emphasis-0 {
+    font-family: "Poppins";
+    font-size: 10px;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--black);
+    margin-right: 12px;
+  }
+  .ascent-gate-academy-raipur-link-devel {
+    height: 107px;
+    width: 237px;
+    display: flex;
+    margin-bottom: 8px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .ascent-gate-academy-raipur-link-devel-emphasis-1 {
+    font-family: "Poppins";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .showsguru-raipur-link-worked-with-the {
+    height: 138px;
+    width: 237px;
+    display: flex;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .flex-wrapper-five {
+    padding: 101px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .technical-skills-four {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .technical-skills-four:not(:last-of-type) {
+    margin-bottom: 51px;
+  }
+  .html-and-css-learn-code-online-git-and {
+    width: 81px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .html-and-css-learn-code-online-git-and-emphasis-1 {
+    font-family: "Poppins";
+    font-size: 7px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--dim-gray);
+  }
+  .html-and-css-learn-code-online-git-and-emphasis-2 {
+    font-family: "Poppins";
+    font-size: 2px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--dim-gray);
+  }
+  .html-and-css-learn-code-online-git-and-emphasis-5 {
+    font-family: "Poppins";
+    font-size: 2px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+  .technical-skills-five {
+    margin-bottom: 17px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .group-3-four {
+    width: 52px;
+    height: 14px;
+    margin-bottom: 7px;
+  }
+  .blog-writing-photography-making-music {
+    max-width: 75px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 10px;
+    color: var(--black);
+    margin-left: 3px;
+  }
+  .group-3-five {
+    width: 52px;
+    height: 14px;
+    margin-bottom: 4px;
+  }
+  .english-hindi {
+    width: 65px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 10px;
+    color: var(--black);
+  }
+  .relative-wrapper-two {
+    display: flex;
+    align-items: flex-start;
+    position: absolute;
+    left: -0.06px;
+    top: 762.69px;
+  }
+  .top {
+    width: 625.1px;
+    height: 79.05px;
+    position: relative;
+  }
+  .technical-skills-six {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 33.06px;
+    top: 150px;
+  }
+  .group-3-six {
+    width: 31.85px;
+    height: 14.23px;
+    margin-bottom: 4.77px;
+  }
+  .vs-code-git-github-figma-canva {
+    width: 150px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 10px;
+    color: var(--black);
+  }
+  .everdemy-raipur-link-successfully-rev {
+    height: 155px;
+    width: 237px;
+    display: flex;
+    position: absolute;
+    right: 116.94px;
+    top: -140.69px;
+    font-family: "Poppins";
+    font-size: 8px;
+    font-weight: 400;
+    line-height: normal;
+    color: var(--black);
+  }
+
+  .softskills{
+    margin-top: 10px;
+    font-size: 8px;
+    font-family: "Poppins";
+  }
